@@ -1,8 +1,16 @@
-# Autonomous Driving: Pedestrians and Vehicles Detection using YOLOv11
-[![License](https://img.shields.io/github/license/bkosovac1/redziBOT)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/bkosovac1/redziBOT)](https://github.com/bkosovac1/redziBOT/stargazers)
+<div align="center">
+
+![AutoDrive Banner](data/autodrive_logo.png)
+
+# AutoDrive
+
+**Autonomous Driving: Pedestrians and Vehicles Detection using YOLOv11**
 
 This project is part of the Data Science and AI Course at Faculty of Electrical Engineering Sarajevo. We utilize the YOLO (You Only Look Once) object detection model to detect pedestrians and vehicles in driving scenarios, classify traffic lights and track lane, primarily using dashcam footage and images. Different configurations and sizes of the YOLO model were explored to evaluate performance.<br>
+
+[![License](https://img.shields.io/github/license/bkosovac1/redziBOT)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/bkosovac1/redziBOT)](https://github.com/bkosovac1/redziBOT/stargazers)
+</div>
 
 ## Table of Contents
 - [Overview](#overview)
